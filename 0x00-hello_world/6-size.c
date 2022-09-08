@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - Entry point
+ * main - prints the size of various types
  *
- * Retrun: always 0
+ * Retrun: 0 if exited properly, non-zero otherwise
  */
 int main(void)
 {
