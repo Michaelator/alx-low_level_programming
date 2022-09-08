@@ -1,9 +1,13 @@
 #include <stdio.h>
+
 /**
- * main - prints the size of various types
+ * main - Entry point
  *
- * Retrun: 0 if exited properly, non-zero otherwise
+ * Description: 'prints the size of various types'
+ *
+ * Retrun: Always 0 (Success)
  */
+
 int main(void)
 {
 	printf("Size of a char: %d byte(s)\n", sizeof(char));
