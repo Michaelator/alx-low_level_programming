@@ -7,7 +7,7 @@
  * it executes, and prints it
  * Return: Always 0 (Success)
  */
-int mai(void)
+int main(void)
 {
 	int n;
 
