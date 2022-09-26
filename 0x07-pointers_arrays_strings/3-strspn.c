@@ -3,7 +3,7 @@
 /**
  * _strspn - gets the length of a prefix substring
  * @s: input string to search for substring
- * @accept: chracters that prefix substring must include
+ * @accept: characters that prefix substring must include
  * @Return: length of prefix substring
  */
 
