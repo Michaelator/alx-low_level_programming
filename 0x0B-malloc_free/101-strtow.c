@@ -5,7 +5,7 @@
 /**
  * _wcount - counts number of words
  * @sw: string
- * 
+ *
  * Return: int
  */
 int _wcount(char *sw)
@@ -28,7 +28,7 @@ int _wcount(char *sw)
 /**
  * _trspace - Moves adress to remove trailig whitespaces
  * @st: string
- * 
+ *
  * Return: Pointer
  */
 char *_trspace(char *st)
